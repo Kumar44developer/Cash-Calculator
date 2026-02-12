@@ -39,3 +39,5 @@ h1 {
   align-items: center;
   transition: transform 0.2s ease;
 }
+
+.row:hover {

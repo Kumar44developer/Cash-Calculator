@@ -37,3 +37,5 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
+  transition: transform 0.2s ease;
+}

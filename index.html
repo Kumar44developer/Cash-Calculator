@@ -65,3 +65,5 @@
         <div class="row">
           <img src="images/one_note.png"></img>
           <input type="number" id="et1" class="cash-input" placeholder="Enter No. of Rs.1 Notes">
+          <span id="txt1" class="cash-text">0</span>
+        </div>

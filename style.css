@@ -60,3 +60,5 @@ input[type="number"] {
   color: #333;
   font-weight: 600;
 }
+
+input[type="number"]:focus {

@@ -85,3 +85,4 @@ input[type="number"]::-ms-clear {
 }
 
 input[type="number"]::-webkit-contacts-auto-fill-button {
+  visibility: hidden;

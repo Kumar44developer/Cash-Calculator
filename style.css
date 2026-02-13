@@ -62,3 +62,4 @@ input[type="number"] {
 }
 
 input[type="number"]:focus {
+  border-color: #ff7e5f;

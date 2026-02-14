@@ -6,4 +6,5 @@ document.addEventListener('DOMContentLoaded', () => {
     const et50 = document.getElementById('et50');
     const et20 = document.getElementById('et20');
     const et10 = document.getElementById('et10');
+    const et5 = document.getElementById('et5');
 

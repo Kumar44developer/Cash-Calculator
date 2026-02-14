@@ -8,4 +8,5 @@ document.addEventListener('DOMContentLoaded', () => {
     const et10 = document.getElementById('et10');
     const et5 = document.getElementById('et5');
     const et2= document.getElementById('et2');
+    const et1 = document.getElementById('et1');
 

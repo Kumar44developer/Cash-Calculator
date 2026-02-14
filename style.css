@@ -132,3 +132,5 @@ button:hover {
 
 .result-part {
   display: flex;
+  flex-direction: column;
+}

@@ -31,3 +31,6 @@ const btnReset = document.getElementById('btnReset');
     const cashTexts = [txt2000, txt500, txt200, txt100,txt50,txt20,txt10,txt5,txt2,txt1];
 cashInputs.forEach((input, index) => {
       input.addEventListener('input', () => {
+        cashCalculate(index);
+      });
+    });

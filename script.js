@@ -56,3 +56,6 @@ cashInputs.forEach((input, index) => {
       cashInputs.forEach((input) => {
         input.value = '';
       });
+      cashTexts.forEach((text) => {
+        text.textContent = '0';
+      });

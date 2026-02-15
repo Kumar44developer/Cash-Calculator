@@ -48,3 +48,4 @@ cashInputs.forEach((input, index) => {
       cashTexts.forEach((text) => {
         totalCashValue += parseInt(text.textContent);
       });
+      txtFinalCash.textContent = 'Total Cash: ' + totalCashValue;

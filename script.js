@@ -45,3 +45,6 @@ cashInputs.forEach((input, index) => {
                 
     function totalCash() {
       let totalCashValue = 0;
+      cashTexts.forEach((text) => {
+        totalCashValue += parseInt(text.textContent);
+      });

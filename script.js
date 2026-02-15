@@ -63,6 +63,7 @@ cashInputs.forEach((input, index) => {
     }
 
    function convertToWords(number) {
+      const units = ['', 'One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine'];
 
 
                           

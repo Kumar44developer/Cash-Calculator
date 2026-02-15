@@ -71,5 +71,6 @@ cashInputs.forEach((input, index) => {
         return 'Zero';
       }
       let words = '';
+      if (Math.floor(number / 10000000) > 0) {
 
                           

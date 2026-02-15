@@ -34,3 +34,7 @@ cashInputs.forEach((input, index) => {
         cashCalculate(index);
       });
     });
+
+    btnReset.addEventListener('click', clearData);
+
+                

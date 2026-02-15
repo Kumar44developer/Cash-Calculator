@@ -80,3 +80,4 @@ cashInputs.forEach((input, index) => {
         words += convertToWords(Math.floor(number / 100000)) + ' Lakh ';
         number %= 100000;
       }
+      if (Math.floor(number / 1000) > 0) {

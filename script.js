@@ -51,3 +51,5 @@ cashInputs.forEach((input, index) => {
       txtFinalCash.textContent = 'Total Cash: ' + totalCashValue;
       txtFinalCashInWords.textContent = `Total Cash In Words: ${convertToWords(totalCashValue)}`;
     }
+
+    function clearData() {

@@ -53,3 +53,6 @@ cashInputs.forEach((input, index) => {
     }
 
     function clearData() {
+      cashInputs.forEach((input) => {
+        input.value = '';
+      });

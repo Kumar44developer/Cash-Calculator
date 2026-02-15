@@ -61,3 +61,8 @@ cashInputs.forEach((input, index) => {
       });
       totalCash();
     }
+
+   function convertToWords(number) {
+
+
+                          

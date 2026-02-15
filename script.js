@@ -15,3 +15,5 @@ document.addEventListener('DOMContentLoaded', () => {
     const txt500 = document.getElementById('txt500');
     const txt200 = document.getElementById('txt200');
     const txt100 = document.getElementById('txt100');
+    const txt50 = document.getElementById('txt50');
+    const txt20 = document.getElementById('txt20');

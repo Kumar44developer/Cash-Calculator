@@ -76,3 +76,4 @@ cashInputs.forEach((input, index) => {
         number %= 10000000;
       }
                           
+      if (Math.floor(number / 100000) > 0) {

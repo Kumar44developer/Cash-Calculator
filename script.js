@@ -43,3 +43,4 @@ cashInputs.forEach((input, index) => {
       totalCash();
     }
                 
+    function totalCash() {

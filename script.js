@@ -70,5 +70,6 @@ cashInputs.forEach((input, index) => {
       if (number === 0) {
         return 'Zero';
       }
+      let words = '';
 
                           

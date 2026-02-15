@@ -25,3 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
 const txtFinalCash = document.getElementById('txtFinalCash');
 const txtFinalCashInWords = document.getElementById('txtFinalCashInWords');
 const btnReset = document.getElementById('btnReset');
+
+
+    const cashInputs = [et2000, et500, et200, et100,et50,et20,et10,et5,et2,et1];
+    const cashTexts = [txt2000, txt500, txt200, txt100,txt50,txt20,txt10,txt5,txt2,txt1];

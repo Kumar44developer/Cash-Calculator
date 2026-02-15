@@ -36,5 +36,6 @@ cashInputs.forEach((input, index) => {
     });
 
     btnReset.addEventListener('click', clearData);
+    function cashCalculate(index) {
 
                 

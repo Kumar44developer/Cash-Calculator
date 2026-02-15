@@ -49,3 +49,5 @@ cashInputs.forEach((input, index) => {
         totalCashValue += parseInt(text.textContent);
       });
       txtFinalCash.textContent = 'Total Cash: ' + totalCashValue;
+      txtFinalCashInWords.textContent = `Total Cash In Words: ${convertToWords(totalCashValue)}`;
+    }

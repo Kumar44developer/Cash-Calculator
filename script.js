@@ -72,5 +72,7 @@ cashInputs.forEach((input, index) => {
       }
       let words = '';
       if (Math.floor(number / 10000000) > 0) {
-
+        words += convertToWords(Math.floor(number / 10000000)) + ' Crore ';
+        number %= 10000000;
+      }
                           

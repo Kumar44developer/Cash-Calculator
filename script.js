@@ -89,3 +89,13 @@ cashInputs.forEach((input, index) => {
         number %= 100;
         
       }
+
+      if (number > 0) {
+
+          if (number < 10) {
+
+
+
+
+
+    

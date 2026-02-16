@@ -2,3 +2,6 @@
 <html>
 <head>
   <title>Cash Calculator</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>

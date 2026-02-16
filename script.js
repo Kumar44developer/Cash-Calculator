@@ -115,4 +115,5 @@ cashInputs.forEach((input, index) => {
              if (number % 10 > 0) {
 
                 console.log("__________________");  
+                console.log(number);
     

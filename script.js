@@ -93,7 +93,11 @@ cashInputs.forEach((input, index) => {
       if (number > 0) {
 
           if (number < 10) {
+              words += units[number]; // units[4]
 
+              console.log(number);
+
+          }
 
 
 

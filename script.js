@@ -112,5 +112,7 @@ cashInputs.forEach((input, index) => {
               console.log(number);
               console.log("Elsei " + words);
               console.log(number % 10 );
+             if (number % 10 > 0) {
 
+                console.log("__________________");  
     

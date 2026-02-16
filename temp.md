@@ -26,3 +26,4 @@
 
         <div class="row">
           <img src="images/one_hundred.png"></img>
+          <input type="number" id="et100" class="cash-input" placeholder="Enter No. of Rs.100 Notes">

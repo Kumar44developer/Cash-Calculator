@@ -136,3 +136,4 @@ cashInputs.forEach((input, index) => {
           }
         });
       });
+  });

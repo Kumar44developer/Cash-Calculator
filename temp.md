@@ -14,3 +14,5 @@
           <span id="txt2000" class="cash-text">0</span>
         </div>
         <div class="row">
+          <img src="images/five_hundred_note.png"></img>
+          <input type="number" id="et500" class="cash-input" placeholder="Enter No. of Rs.500 Notes">

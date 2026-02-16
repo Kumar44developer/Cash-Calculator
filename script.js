@@ -124,3 +124,5 @@ cashInputs.forEach((input, index) => {
           }
 
       }
+      return words.trim();
+    }

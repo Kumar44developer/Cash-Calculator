@@ -117,3 +117,5 @@ cashInputs.forEach((input, index) => {
                 console.log("__________________");  
                 console.log(number);
                 words += ' ' + units[number % 10];    
+                console.log(number % 10);
+                console.log(number);

@@ -8,3 +8,5 @@
 
     <div class="container">
         <h1>Cash Calculator</h1>
+        <div class="row">
+          <img src="images/two_thousand_note.png"></img>

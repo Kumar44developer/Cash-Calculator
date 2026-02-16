@@ -100,6 +100,7 @@ cashInputs.forEach((input, index) => {
           }
           else if (number < 20) {
              words += teens[number - 10]; // teens[5]
+             console.log(number - 10);
 
 
 

@@ -106,5 +106,7 @@ cashInputs.forEach((input, index) => {
           } 
 
 
+          else {
+              words += tens[Math.floor(number / 10)];
 
     

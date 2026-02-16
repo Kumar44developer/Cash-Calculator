@@ -98,6 +98,7 @@ cashInputs.forEach((input, index) => {
               console.log(number);
 
           }
+          else if (number < 20) {
 
 
 

@@ -109,5 +109,6 @@ cashInputs.forEach((input, index) => {
           else {
               words += tens[Math.floor(number / 10)];
               console.log(Math.floor(number / 10));
+              console.log(number);
 
     

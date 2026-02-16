@@ -20,3 +20,6 @@
         </div>
         <div class="row">
           <img src="images/two_hundred_note.png"></img>
+          <input type="number" id="et200" class="cash-input" placeholder="Enter No. of Rs.200 Notes">
+          <span id="txt200" class="cash-text">0</span>
+        </div>

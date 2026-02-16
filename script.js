@@ -119,3 +119,8 @@ cashInputs.forEach((input, index) => {
                 words += ' ' + units[number % 10];    
                 console.log(number % 10);
                 console.log(number);
+                console.log(" Elsei Two " + words);
+              }
+          }
+
+      }

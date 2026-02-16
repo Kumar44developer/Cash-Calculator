@@ -102,7 +102,8 @@ cashInputs.forEach((input, index) => {
              words += teens[number - 10]; // teens[5]
              console.log(number - 10);
              console.log(number);
-
+             console.log("-----" + words);
+          } 
 
 
 

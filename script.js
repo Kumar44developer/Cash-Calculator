@@ -111,5 +111,6 @@ cashInputs.forEach((input, index) => {
               console.log(Math.floor(number / 10));
               console.log(number);
               console.log("Elsei " + words);
+              console.log(number % 10 );
 
     

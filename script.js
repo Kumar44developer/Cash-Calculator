@@ -126,3 +126,7 @@ cashInputs.forEach((input, index) => {
       }
       return words.trim();
     }
+
+
+    cashInputs.forEach(input => {
+        input.addEventListener('input', () => {

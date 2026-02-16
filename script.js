@@ -130,3 +130,4 @@ cashInputs.forEach((input, index) => {
 
     cashInputs.forEach(input => {
         input.addEventListener('input', () => {
+          const value = parseInt(input.value, 10);

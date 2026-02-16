@@ -12,3 +12,5 @@
           <img src="images/two_thousand_note.png"></img>
           <input type="number" id="et2000" class="cash-input" placeholder="Enter No. of Rs.2000 Notes">
           <span id="txt2000" class="cash-text">0</span>
+        </div>
+        <div class="row">

@@ -39,3 +39,4 @@
 
         <div class="row">
           <img src="images/twenty_note.png"></img>
+          <input type="number" id="et20" class="cash-input" placeholder="Enter No. of Rs.20 Notes">

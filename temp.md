@@ -61,3 +61,6 @@
           <input type="number" id="et2" class="cash-input" placeholder="Enter No. of Rs.2 Notes">
           <span id="txt2" class="cash-text">0</span>
         </div>
+
+        <div class="row">
+          <img src="images/one_note.png"></img>

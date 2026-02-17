@@ -74,3 +74,5 @@
 
         <div class="row result-part">
           <span id="txtFinalCash">Total Cash: 0</span>
+          <span id="txtFinalCashInWords">Zero</span>
+        </div>

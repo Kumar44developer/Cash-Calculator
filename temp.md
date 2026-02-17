@@ -129,3 +129,6 @@ img {
 input[type="number"] {
   padding: 10px;
   font-size: 15px;
+  width: 250px;
+  border-radius: 4px;
+  border: 1px solid #ccc;

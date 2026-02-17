@@ -69,3 +69,5 @@
         </div>
 
         <div class="row">
+          <button id="btnReset">Reset</button>
+        </div>

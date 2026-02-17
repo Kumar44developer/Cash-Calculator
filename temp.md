@@ -101,3 +101,6 @@ body {
   animation: fadeIn 1s ease;
   display: flex;
   flex-direction: column;
+  align-items: center;
+  box-shadow: 2px 6px 10px rgba(0, 0, 0, 0.5);;
+}

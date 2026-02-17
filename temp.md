@@ -113,3 +113,7 @@ header {
 h1 {
   color: #ffffff;
 }
+
+.row{
+  margin-top: 10px;
+  display: flex;

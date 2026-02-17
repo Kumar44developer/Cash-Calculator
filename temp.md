@@ -76,3 +76,8 @@
           <span id="txtFinalCash">Total Cash: 0</span>
           <span id="txtFinalCashInWords">Zero</span>
         </div>
+    </div>
+  
+  <script src="script.js"></script>
+</body>
+</html>

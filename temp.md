@@ -154,3 +154,6 @@ input[type="number"]::-webkit-outer-spin-button {
 
 input[type="number"]::-moz-inner-spin-button,
 input[type="number"]::-moz-outer-spin-button {
+  -moz-appearance: none;
+  margin: 0;
+}

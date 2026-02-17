@@ -82,3 +82,7 @@
 </body>
 </html>
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css');
+
+body {
+  margin: 0;
+  padding: 0;

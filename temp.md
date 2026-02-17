@@ -90,3 +90,7 @@ body {
   font-family: Arial, sans-serif;
   color: #333;
 }
+
+.container {
+  max-width: 600px;
+  margin: 50px auto;

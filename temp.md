@@ -142,3 +142,6 @@ input[type="number"] {
 
 input[type="number"]:focus {
   border-color: #ff7e5f;
+  outline: none;
+  box-shadow: 0 0 0 2px #ff7e5f;
+}

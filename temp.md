@@ -132,3 +132,6 @@ input[type="number"] {
   width: 250px;
   border-radius: 4px;
   border: 1px solid #ccc;
+  flex: 1;
+  transition: border-color 0.3s ease;
+  background-color: #fff;

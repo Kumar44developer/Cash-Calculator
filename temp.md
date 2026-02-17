@@ -97,3 +97,5 @@ body {
   padding: 20px 5px;
   background: linear-gradient(to right, #c9a31b, #593bc4);
   border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  animation: fadeIn 1s ease;

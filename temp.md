@@ -145,3 +145,6 @@ input[type="number"]:focus {
   outline: none;
   box-shadow: 0 0 0 2px #ff7e5f;
 }
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {

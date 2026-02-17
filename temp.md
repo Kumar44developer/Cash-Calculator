@@ -86,3 +86,7 @@
 body {
   margin: 0;
   padding: 0;
+  background: linear-gradient(to right,  #593bc4,#c9a31b);
+  font-family: Arial, sans-serif;
+  color: #333;
+}

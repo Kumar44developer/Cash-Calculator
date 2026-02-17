@@ -71,3 +71,6 @@
         <div class="row">
           <button id="btnReset">Reset</button>
         </div>
+
+        <div class="row result-part">
+          <span id="txtFinalCash">Total Cash: 0</span>

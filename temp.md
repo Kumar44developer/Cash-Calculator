@@ -104,3 +104,6 @@ body {
   align-items: center;
   box-shadow: 2px 6px 10px rgba(0, 0, 0, 0.5);;
 }
+
+header {
+  text-align: center;

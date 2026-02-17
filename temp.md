@@ -126,3 +126,6 @@ img {
   margin-right: 10px;
 }
 
+input[type="number"] {
+  padding: 10px;
+  font-size: 15px;

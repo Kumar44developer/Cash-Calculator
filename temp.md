@@ -107,3 +107,5 @@ body {
 
 header {
   text-align: center;
+  margin-bottom: 20px;
+}

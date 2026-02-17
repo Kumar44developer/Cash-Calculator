@@ -94,3 +94,6 @@ body {
 .container {
   max-width: 600px;
   margin: 50px auto;
+  padding: 20px 5px;
+  background: linear-gradient(to right, #c9a31b, #593bc4);
+  border-radius: 8px;

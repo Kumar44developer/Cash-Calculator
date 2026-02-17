@@ -135,3 +135,7 @@ input[type="number"] {
   flex: 1;
   transition: border-color 0.3s ease;
   background-color: #fff;
+  color: #333;
+  font-weight: 600;
+  
+}

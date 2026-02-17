@@ -139,3 +139,6 @@ input[type="number"] {
   font-weight: 600;
   
 }
+
+input[type="number"]:focus {
+  border-color: #ff7e5f;

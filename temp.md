@@ -121,3 +121,8 @@ h1 {
   align-items: center;
 
 }
+
+img {
+  margin-right: 10px;
+}
+

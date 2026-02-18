@@ -203,6 +203,10 @@ button:hover {
   color: #ffffff;
 }
 
+.result-part{
+  display: flex;
+
+
 #txtFinalCashInWords {
   margin-top: 10px;
   font-style: italic;

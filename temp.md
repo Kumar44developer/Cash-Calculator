@@ -253,3 +253,4 @@ document.addEventListener('DOMContentLoaded', () => {
     const txtFinalCash = document.getElementById('txtFinalCash');
     const txtFinalCashInWords = document.getElementById('txtFinalCashInWords');
     const btnReset = document.getElementById('btnReset');
+

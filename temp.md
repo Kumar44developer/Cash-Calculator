@@ -338,3 +338,6 @@ document.addEventListener('DOMContentLoaded', () => {
           }
         });
       });
+
+      cashTexts.forEach(text => {
+        text.addEventListener('input', () => {

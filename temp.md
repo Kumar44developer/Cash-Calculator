@@ -213,3 +213,9 @@ button:hover {
   font-style: italic;
   color: #d4d0d0;
 }
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }

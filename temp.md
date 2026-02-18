@@ -202,3 +202,6 @@ button:hover {
   margin-top: 20px;
   color: #ffffff;
 }
+
+#txtFinalCashInWords {
+  margin-top: 10px;

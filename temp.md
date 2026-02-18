@@ -316,3 +316,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       if (number > 0) {
         if (number < 10) {
+          words += units[number];
+        } else if (number < 20) {
+          words += teens[number - 10];
+        } 

@@ -268,3 +268,6 @@ document.addEventListener('DOMContentLoaded', () => {
       cashTexts[index].textContent = rowValue.toFixed(0);
       totalCash();
     }
+
+    function totalCash() {
+      let totalCashValue = 0;

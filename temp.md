@@ -173,3 +173,8 @@ input[type="number"]::-webkit-contacts-auto-fill-button {
 .cash-text {
   font-weight: bold;
   margin-left: 10px;
+  width: 40px; /* Adjust the width as needed */
+  display: inline-block;
+  text-align: center;
+  color: white;
+}

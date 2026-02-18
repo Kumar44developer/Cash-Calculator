@@ -205,7 +205,8 @@ button:hover {
 
 .result-part{
   display: flex;
-
+  flex-direction: column;
+}
 
 #txtFinalCashInWords {
   margin-top: 10px;

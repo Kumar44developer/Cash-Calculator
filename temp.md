@@ -161,3 +161,7 @@ input[type="number"]::-moz-outer-spin-button {
 input[type="number"]::-ms-clear {
   display: none;
 }
+
+input[type="number"]::-webkit-contacts-auto-fill-button {
+  visibility: hidden;
+  display: none !important;

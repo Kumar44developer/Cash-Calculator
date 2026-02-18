@@ -271,3 +271,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function totalCash() {
       let totalCashValue = 0;
+      cashTexts.forEach((text) => {
+        totalCashValue += parseInt(text.textContent);
+      });

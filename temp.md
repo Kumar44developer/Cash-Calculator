@@ -259,3 +259,5 @@ document.addEventListener('DOMContentLoaded', () => {
         cashCalculate(index);
       });
     });
+
+    btnReset.addEventListener('click', clearData);

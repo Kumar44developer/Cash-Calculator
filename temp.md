@@ -282,3 +282,8 @@ document.addEventListener('DOMContentLoaded', () => {
       cashInputs.forEach((input) => {
         input.value = 0;
       });
+      cashTexts.forEach((text) => {
+        text.textContent = '0';
+      });
+      totalCash();
+    }

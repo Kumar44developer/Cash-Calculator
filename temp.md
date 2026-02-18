@@ -256,3 +256,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     cashInputs.forEach((input, index) => {
       input.addEventListener('input', () => {
+        cashCalculate(index);
+      });
+    });

@@ -157,3 +157,7 @@ input[type="number"]::-moz-outer-spin-button {
   -moz-appearance: none;
   margin: 0;
 }
+
+input[type="number"]::-ms-clear {
+  display: none;
+}

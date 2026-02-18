@@ -314,3 +314,5 @@ document.addEventListener('DOMContentLoaded', () => {
         number %= 1000;
       }
 
+      if (number > 0) {
+        if (number < 10) {

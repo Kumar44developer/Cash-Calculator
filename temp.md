@@ -329,3 +329,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }
       return words.trim();
     }
+
+    cashInputs.forEach(input => {
+        input.addEventListener('input', () => {
+          const value = parseInt(input.value, 10);

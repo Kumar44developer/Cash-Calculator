@@ -320,3 +320,10 @@ document.addEventListener('DOMContentLoaded', () => {
         } else if (number < 20) {
           words += teens[number - 10];
         } 
+        } else {
+          words += tens[Math.floor(number / 10)];
+          if (number % 10 > 0) {
+            words += ' ' + units[number % 10];
+          }
+        }
+      }

@@ -199,3 +199,6 @@ button:hover {
 #txtFinalCash {
   font-size: 18px;
   font-weight: bold;
+  margin-top: 20px;
+  color: #ffffff;
+}

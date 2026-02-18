@@ -169,3 +169,7 @@ input[type="number"]::-webkit-contacts-auto-fill-button {
   position: absolute;
   right: 0;
 }
+
+.cash-text {
+  font-weight: bold;
+  margin-left: 10px;

@@ -278,3 +278,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       txtFinalCashInWords.textContent = `Total Cash In Words: ${convertToWords(totalCashValue)}`;
     }
+    function clearData() {
+      cashInputs.forEach((input) => {
+        input.value = 0;
+      });

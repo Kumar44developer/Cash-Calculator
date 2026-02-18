@@ -313,3 +313,4 @@ document.addEventListener('DOMContentLoaded', () => {
         words += convertToWords(Math.floor(number / 1000)) + ' Thousand ';
         number %= 1000;
       }
+

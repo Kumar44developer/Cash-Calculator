@@ -254,3 +254,5 @@ document.addEventListener('DOMContentLoaded', () => {
     const txtFinalCashInWords = document.getElementById('txtFinalCashInWords');
     const btnReset = document.getElementById('btnReset');
 
+    cashInputs.forEach((input, index) => {
+      input.addEventListener('input', () => {

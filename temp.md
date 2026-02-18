@@ -205,3 +205,6 @@ button:hover {
 
 #txtFinalCashInWords {
   margin-top: 10px;
+  font-style: italic;
+  color: #d4d0d0;
+}

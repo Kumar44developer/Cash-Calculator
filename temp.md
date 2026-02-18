@@ -249,3 +249,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const txt5 = document.getElementById('txt5');
     const txt2 = document.getElementById('txt2');
     const txt1 = document.getElementById('txt1');
+
+    const txtFinalCash = document.getElementById('txtFinalCash');
+    const txtFinalCashInWords = document.getElementById('txtFinalCashInWords');
+    const btnReset = document.getElementById('btnReset');

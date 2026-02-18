@@ -341,3 +341,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
       cashTexts.forEach(text => {
         text.addEventListener('input', () => {
+          const value = parseInt(text.textContent, 10);
+          if (isNaN(value) || value < 0) {
+            text.textContent = '0';
+          }
+        });
+      });
+  });

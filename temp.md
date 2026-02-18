@@ -333,3 +333,8 @@ document.addEventListener('DOMContentLoaded', () => {
     cashInputs.forEach(input => {
         input.addEventListener('input', () => {
           const value = parseInt(input.value, 10);
+          if (isNaN(value) || value < 0) {
+            input.value = '';
+          }
+        });
+      });

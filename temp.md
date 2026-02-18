@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html>
 <head>
   <title>Cash Calculator</title>
@@ -287,3 +287,6 @@ document.addEventListener('DOMContentLoaded', () => {
       });
       totalCash();
     }
+    
+   function convertToWords(number) {
+      const units = ['', 'One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine'];

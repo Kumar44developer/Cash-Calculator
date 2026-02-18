@@ -178,3 +178,8 @@ input[type="number"]::-webkit-contacts-auto-fill-button {
   text-align: center;
   color: white;
 }
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #ff7e5f;

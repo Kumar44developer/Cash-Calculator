@@ -165,3 +165,7 @@ input[type="number"]::-ms-clear {
 input[type="number"]::-webkit-contacts-auto-fill-button {
   visibility: hidden;
   display: none !important;
+  pointer-events: none;
+  position: absolute;
+  right: 0;
+}

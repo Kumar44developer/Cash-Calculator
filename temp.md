@@ -1,4 +1,4 @@
-  <!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
 <head>
   <title>Cash Calculator</title>
@@ -307,4 +307,9 @@ document.addEventListener('DOMContentLoaded', () => {
       if (Math.floor(number / 100000) > 0) {
         words += convertToWords(Math.floor(number / 100000)) + ' Lakh ';
         number %= 100000;
+      }
+
+      if (Math.floor(number / 1000) > 0) {
+        words += convertToWords(Math.floor(number / 1000)) + ' Thousand ';
+        number %= 1000;
       }

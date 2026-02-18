@@ -183,3 +183,6 @@ button {
   padding: 10px 20px;
   font-size: 16px;
   background-color: #ff7e5f;
+  color: #fff;
+  border: none;
+  border-radius: 4px;

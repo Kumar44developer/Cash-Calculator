@@ -296,3 +296,10 @@ document.addEventListener('DOMContentLoaded', () => {
       if (number === 0) {
         return 'Zero';
       }
+
+      let words = '';
+  
+      if (Math.floor(number / 10000000) > 0) {
+        words += convertToWords(Math.floor(number / 10000000)) + ' Crore ';
+        number %= 10000000;
+      }
